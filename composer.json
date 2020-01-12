@@ -1,12 +1,13 @@
 {
     "name": "olakunlevpn/pagereview",
     "description": ":description",
-    "license": "license",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "olakunlevpn",
             "email": "olakunlevpn@live.com",
-            "homepage": "www.neoigodaro.com"
+            "homepage": "www.olakunlevpn.com"
         }
     ],
     "homepage": "https://github.com/olakunlevpn/pagereview",
